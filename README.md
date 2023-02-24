@@ -5,18 +5,20 @@
 
 - 🔭 &nbsp; This is a Farm Shop project written in PHP language.
 - 🤔 &nbsp; The frontend is written in HTML, CSS, Javascript languages.
-- 🎓 &nbsp; The backend is written in PHP - MVC.
+- 🎓 &nbsp; The backend is written in PHP - MVC, database is MySQL.
 - 💼 &nbsp; This project includes a number of features such as: purchase, payment, receive promotions via mail, management, ...
 - 🌱 &nbsp; The project consists of 3 members studying at HUTECH University.
 - ✍️ &nbsp; This is just a course project.
 - ☕ &nbsp; Thanks for reading. 
 
 <h3> 👨🏻‍💻 Members </h3>
-- 👨🏻‍💻 &nbsp; : Nguyễn Xuân Tiến  
-- 👨🏻‍💻 &nbsp; : Lưu Gia Thanh 
-- 👨🏻‍💻 &nbsp; : TRần Thị Huyền Trang 
-- 🔧 &nbsp; : HO CHI MINH CITY
-- 🖥 &nbsp; :Đại học Công nghệ TP.HCM - HUTECH
+
+- 💻 &nbsp; Nguyễn Xuân Tiến
+- 💻 &nbsp; Lưu Gia Thanh
+- 💻 &nbsp; Trần Thị Huyền Trang
+- 🌐 &nbsp; Học tại Trường Đại học Công nghệ TP.HCM - HUTECH
+
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
