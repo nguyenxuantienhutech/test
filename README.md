@@ -16,7 +16,7 @@
 - 💻 &nbsp; Nguyễn Xuân Tiến
 - 💻 &nbsp; Lưu Gia Thanh
 - 💻 &nbsp; Trần Thị Huyền Trang
-- 🌐 &nbsp; Học tại Trường Đại học Công nghệ TP.HCM - HUTECH
+- 🌐 &nbsp; studying at HUTECH University (Hi-Tech Campus).
 
 
 
