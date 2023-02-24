@@ -12,11 +12,11 @@
 - ☕ &nbsp; Thanks for reading. 
 
 <h3> 👨🏻‍💻 Members </h3>
-- 👨🏻‍💻: Nguyễn Xuân Tiến  
-- 👨🏻‍💻: Lưu Gia Thanh 
-- 👨🏻‍💻: TRần Thị Huyền Trang 
-- 🔧: HO CHI MINH CITY
-- 🖥: Đại học Công nghệ TP.HCM - HUTECH
+- 👨🏻‍💻 &nbsp; : Nguyễn Xuân Tiến  
+- 👨🏻‍💻 &nbsp; : Lưu Gia Thanh 
+- 👨🏻‍💻 &nbsp; : TRần Thị Huyền Trang 
+- 🔧 &nbsp; : HO CHI MINH CITY
+- 🖥 &nbsp; :Đại học Công nghệ TP.HCM - HUTECH
 
 <h3> 🤝🏻 Connect with Me </h3>
 
