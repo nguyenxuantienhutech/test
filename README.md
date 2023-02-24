@@ -23,9 +23,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.facebook.com/dc1.sunshine/" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/118562/facebook" width="50" /></a> 
-&nbsp; <a href="https://www.facebook.com/giathanh.luu.2512" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/118562/facebook" width="50" /></a>  
-&nbsp; <a href="https://www.facebook.com/profile.php?id=100015233356827" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/118562/facebook" width="50" /></a>   
+&nbsp; <a href="https://www.facebook.com/dc1.sunshine/" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/118568/facebook" width="50" /></a> 
+&nbsp; <a href="https://www.facebook.com/giathanh.luu.2512" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/118568/facebook" width="50" /></a>  
+&nbsp; <a href="https://www.facebook.com/profile.php?id=100015233356827" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/118568/facebook" width="50" /></a>   
 &nbsp; <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="mailto:xuantien8a1@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
