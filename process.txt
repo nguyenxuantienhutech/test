@@ -1,0 +1,2 @@
+Đăng ký, đăng nhập thành công
+Chưa validation
